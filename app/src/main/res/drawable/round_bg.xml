@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Created by huongnd2 on 3/23/23 1:42 PM
+  ~ Copyright (c) 2023 . All rights reserved.
+  ~ Last modified 3/23/23 1:41 PM
+  -->
+
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="oval">
+    <solid android:color="#BEBDFC"/>
+</shape>

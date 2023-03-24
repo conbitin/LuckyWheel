@@ -1,0 +1,2 @@
+rootProject.name='IPChecker'
+include ':app'

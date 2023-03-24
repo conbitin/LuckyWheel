@@ -1,0 +1,16 @@
+<!--
+  ~ Created by huongnd2 on 3/23/23 5:44 PM
+  ~ Copyright (c) 2023 . All rights reserved.
+  ~ Last modified 3/23/23 12:21 PM
+  -->
+
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+
+    <corners android:radius="16dp" />
+    <solid android:color="#00000000" />
+    <stroke
+        android:width="2dp"
+        android:color="#BEBDFC" />
+
+</shape>

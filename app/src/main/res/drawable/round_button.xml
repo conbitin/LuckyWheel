@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Created by huongnd2 on 3/23/23 1:33 PM
+  ~ Copyright (c) 2023 . All rights reserved.
+  ~ Last modified 3/23/23 1:33 PM
+  -->
+
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_pressed="false">
+        <shape android:shape="oval">
+            <solid android:color="#51459E"/>
+        </shape>
+    </item>
+    <item android:state_pressed="true">
+        <shape android:shape="oval">
+            <solid android:color="#39345A" />
+        </shape>
+    </item>
+</selector>

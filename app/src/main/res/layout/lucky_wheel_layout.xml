@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Created by huongnd2 on 3/23/23 12:11 PM
+  ~ Copyright (c) 2023 . All rights reserved.
+  ~ Last modified 3/23/23 12:11 PM
+  -->
+
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <com.android.ipchecker.view.luckyview.PielView
+        android:id="@+id/pieView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="40dp">
+
+    </com.android.ipchecker.view.luckyview.PielView>
+
+    <ImageView
+        android:layout_gravity="center_horizontal"
+        android:id="@+id/cursorView"
+        android:layout_width="47dp"
+        android:layout_marginTop="0dp"
+        android:layout_height="47dp" />
+</FrameLayout>
